@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "khan",
+      "email": "khan@test.com",
+      "password": "khan123",
+      "id": 1
+    },
+    {
+      "name": "fana",
+      "email": "fana@test.com",
+      "password": "fana123",
+      "id": 2
+    },
+    {
+      "name": "bhai",
+      "email": "bhai@test.com",
+      "password": "bhai123",
+      "id": 3
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 2,
+      "name": "McDonalds",
+      "address": "hashmi garden",
+      "contact": 222
+    },
+    {
+      "name": "Optp",
+      "address": "Welcome Chok",
+      "contact": "48652165",
+      "id": 5
+    },
+    {
+      "name": "Almaida",
+      "address": "chok fwara",
+      "contact": "489614",
+      "id": 6
+    },
+    {
+      "name": "chicken cottage",
+      "address": "cheema town",
+      "contact": "5186435",
+      "id": 8
+    },
+    {
+      "name": "pizza town",
+      "address": "noor mehal",
+      "contact": "848452643",
+      "id": 10
+    },
+    {
+      "name": "AFFC",
+      "address": "kalma chok",
+      "contact": "54681321",
+      "id": 11
+    }
+  ]
+}
